@@ -1,12 +1,8 @@
 # <PassOP/> - Your Personal Password Manager
 
 <PassOP/> is a simple, secure, and client-side password manager designed to help you save and manage your website credentials directly in your browser. All your data is stored locally using `localStorage`, ensuring that your sensitive information never leaves your device.
-
-![PassOP Screenshot](httpss://raw.githubusercontent.com/abhisek0407/PassOP/main/src/assets/Screenshot 2025-11-04 154852.png)
-
-> **Note:** To add a screenshot like the one above, take a picture of your running app, add it to your project (e.g., in an `assets` folder), push it to GitHub, and then replace the URL above with the raw link to your image.
-
----
+<img width="1919" height="914" alt="Screenshot 2025-11-04 154852" src="https://github.com/user-attachments/assets/5bff4f9d-9b1a-4b9a-99ee-27e6ac8b27d7" />
+>
 
 ## 🚀 Features
 
